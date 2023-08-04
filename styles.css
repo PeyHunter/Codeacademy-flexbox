@@ -43,7 +43,7 @@ align-items: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    margin-bottom: 100px;
 }
 
 .mission-text {
@@ -53,6 +53,32 @@ align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 100vh;
+    width: 100%;
+}
+
+.mission-text h1, p {
+    margin: 8px;
+}
+
+
+.tea-of-the-month {
+    color: white;
+    text-align: center;
+    max-width:  1000px;
+    margin: 0 auto;
+}
+
+.tea-of-the-month-pic {
+    width: 300px;
+    margin: 7px;
+}
+
+.tea-row {
+    display: flex;
+    justify-content: center ;
+    margin: 10px;
+
     
+    
+
 }
