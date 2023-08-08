@@ -77,8 +77,26 @@ align-items: center;
     display: flex;
     justify-content: center ;
     margin: 10px;
+}
 
-    
-    
 
+
+.box-wrapper {
+    background-image: url(./src/img-locations-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.box-text {
+    background-color: black;
+    align-items: space-around;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    list-style: none;
 }
