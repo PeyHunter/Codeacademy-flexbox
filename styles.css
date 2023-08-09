@@ -107,3 +107,21 @@ align-items: center;
 .box-text-title-0 {
     opacity: 0%;
 }
+
+a {
+    color: white;
+}
+a:hover {
+    color: grey;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
+.copy-write {
+    text-align: left;
+}
+.space-div {
+   height: 40px;
+}
